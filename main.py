@@ -43,7 +43,8 @@ class Blockchain:
                 return False
             
             return True
-    
+            
+#Testing the blockchain    
 my_blockchain = Blockchain()
     
 buy1 = {
